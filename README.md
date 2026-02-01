@@ -1,2 +1,2 @@
-# -Library-Management-System
-The Library Management System is a Java-based project designed to demonstrate core OOP concepts such as Encapsulation, Inheritance, Abstraction, and Polymorphism. It manages book issuing and returning operations while using features like constructor overloading, method overloading, method overriding, and static members. 
+# Library-Management-System
+Java-based Library Management System that demonstrates core Object-Oriented Programming concepts such as encapsulation, inheritance, abstraction, and polymorphism. The project includes basic features like issuing and returning books and is designed for learning and academic purposes.
